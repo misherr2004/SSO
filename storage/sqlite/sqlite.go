@@ -1,6 +1,7 @@
 package sqlite
 
 import (
+	"SSO/cmd/internal/models"
 	"context"
 	"database/sql"
 	"errors"
